@@ -1,0 +1,4 @@
+folder_name="log"
+folder_path="/home/{YOUR_USERNAME}/Documents/ctlog"
+flag_name="flag"
+current_number=1
